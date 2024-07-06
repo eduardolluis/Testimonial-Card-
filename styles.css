@@ -4,6 +4,7 @@ body {
     padding: 0;
     background-color: hsl(210, 46%, 95%);
     font-family: 'Barlow Semi Condensed', sans-serif;
+    overflow: visible !important;
 }
 
 
